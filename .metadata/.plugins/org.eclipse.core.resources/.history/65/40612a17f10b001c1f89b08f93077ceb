@@ -1,0 +1,5 @@
+package com.spardaprogram.workshopmongo.domain;
+
+public class User {
+
+}
