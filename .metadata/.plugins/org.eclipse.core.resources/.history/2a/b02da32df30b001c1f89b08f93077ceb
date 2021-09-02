@@ -1,0 +1,5 @@
+package com.spardaprogram.workshopmongo.repository;
+
+public interface UserRepository {
+
+}
